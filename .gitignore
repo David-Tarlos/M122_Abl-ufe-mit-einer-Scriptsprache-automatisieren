@@ -1,0 +1,12 @@
+# Persönliche und temporäre Dateien
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.profile
+.ssh/
+.sudo_as_admin_successful
+
+# Optional: andere temporäre oder sensible Dateien
+*.log
+*.tmp
