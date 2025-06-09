@@ -1,6 +1,6 @@
 
 #!/bin/bash
-for i in {1..5}
+for ((i = 0; i <= 5; i++))
 do
-echo "Zahl: $i"
+echo "$i"
 done
