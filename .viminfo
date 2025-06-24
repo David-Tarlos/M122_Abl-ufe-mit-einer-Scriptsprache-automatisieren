@@ -1,0 +1,68 @@
+# Diese viminfo-Datei wurde von Vim 9.1 generiert.
+# Sie können sie verändern, wenn Sie vorsichtig vorgehen!
+
+# Viminfo version
+|1,4
+
+# Wert von 'encoding', als diese Datei geschrieben wurde
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Befehlszeile Geschichte (neueste bis älteste):
+:wq
+|2,0,1749418572,,"wq"
+:q
+|2,0,1749418467,,"q"
+
+# Suchausdruck Geschichte (neueste bis älteste):
+
+# Ausdruck Geschichte (neueste bis älteste):
+
+# Eingabe-Zeile Geschichte (neueste bis älteste):
+
+# Debug-Zeile Geschichte (neueste bis älteste):
+
+# Register:
+
+# Datei-Markierungen:
+'0  9  3  ~/Scripts/Parameter.sh
+|4,48,9,3,1749418572,"~/Scripts/Parameter.sh"
+'1  9  36  ~/Scripts/Parameter.sh
+|4,49,9,36,1749418506,"~/Scripts/Parameter.sh"
+'2  3  0  ~/Scripts/Parameter.sh
+|4,50,3,0,1749418467,"~/Scripts/Parameter.sh"
+'3  3  0  ~/Scripts/Parameter.sh
+|4,51,3,0,1749418467,"~/Scripts/Parameter.sh"
+'4  3  0  ~/Scripts/Parameter.sh
+|4,52,3,0,1749418467,"~/Scripts/Parameter.sh"
+'5  3  0  ~/Scripts/Parameter.sh
+|4,53,3,0,1749418467,"~/Scripts/Parameter.sh"
+
+# Jumplist (neueste zuerst):
+-'  9  3  ~/Scripts/Parameter.sh
+|4,39,9,3,1749418572,"~/Scripts/Parameter.sh"
+-'  9  36  ~/Scripts/Parameter.sh
+|4,39,9,36,1749418506,"~/Scripts/Parameter.sh"
+-'  3  0  ~/Scripts/Parameter.sh
+|4,39,3,0,1749418475,"~/Scripts/Parameter.sh"
+-'  3  0  ~/Scripts/Parameter.sh
+|4,39,3,0,1749418475,"~/Scripts/Parameter.sh"
+-'  3  0  ~/Scripts/Parameter.sh
+|4,39,3,0,1749418467,"~/Scripts/Parameter.sh"
+-'  1  0  ~/Scripts/Parameter.sh
+|4,39,1,0,1749418373,"~/Scripts/Parameter.sh"
+-'  1  0  ~/Scripts/Parameter.sh
+|4,39,1,0,1749418373,"~/Scripts/Parameter.sh"
+-'  1  0  ~/Scripts/Parameter.sh
+|4,39,1,0,1749418373,"~/Scripts/Parameter.sh"
+
+# Geschichte der Markierungen innerhalb von Dateien (neueste zuerst):
+
+> ~/Scripts/Parameter.sh
+	*	1749418570	0
+	"	9	3
+	^	9	4
+	.	9	3
+	+	9	3
